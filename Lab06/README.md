@@ -1,6 +1,6 @@
 James Ensminger
 
-# Lab5: Basic IO on a Microcontroller
+# Lab6: Basic IO on a Microcontroller
 
 ## Summary <br />
 In this lab, I implemented programs along with timers as well as ISRs that interact with hardware on the I/O shield. Such programs <br />
